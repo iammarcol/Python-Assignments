@@ -72,7 +72,7 @@ calculates the proportion of proteins in the FASTA file containing at least N-ti
 output file with the specified format, ordered by the proportion value
 (descending order)
 
-![alt text](./3_Lists_and_Dictonaries_in_Bioinformatics/desc.png)
+![alt text](./Exercises/pic.png)
 
 # Exercise_4 - Generator Functions
 1) A Generator Function that reads a Fasta file. In each iteration, the function
@@ -207,7 +207,7 @@ FASTA_iterator( fasta_filename )
 implement the
 following classes:
 
-![alt text](./8_OOP_inheritance_dunder_bioinformatics/desc.png)
+![alt text](./Exercises/pic2.png)
 
 Specifications:
 
@@ -288,7 +288,7 @@ second one to the output file.
 
 7.4) The script should print to standard error a progression log
 
-![alt text](./9_Exception_Handling//desc.png)
+![alt text](./Exercises/pic3.png)
 
 Output format:
 
