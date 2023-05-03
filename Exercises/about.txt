@@ -1,0 +1,1 @@
+These are the exercises that have been done in the Python course. They start from more simple exercises to more complex one, ending with object oriented programming exercises by the end. 
